@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 import random
-
 # Random bright colors
 def random_color():
     colors = ["#FF5733", "#33FF57", "#3357FF", "#FF33A6", "#FF8C00", "#9933FF", "#00CED1", "#FF1493"]
